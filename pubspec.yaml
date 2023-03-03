@@ -39,6 +39,8 @@ dependencies:
   intl: ^0.18.0
   cloud_firestore: ^4.4.2
   shimmer: ^2.0.0
+  flutter_custom_clippers: ^2.1.0
+  custom_clippers: ^2.0.0
 
 dev_dependencies:
   flutter_test:
